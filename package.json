@@ -1,0 +1,10 @@
+{
+    "name": "bio-chain",
+    "version": "1.0.0",
+    "description": "The Ethical Organ Donation Ledger",
+    "main": "scripts/start.js",
+    "type": "module",
+    "scripts": {
+        "start": "node scripts/start.js"
+    }
+}
